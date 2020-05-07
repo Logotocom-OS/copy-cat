@@ -1,5 +1,5 @@
-[submodule "original/CC-Tweaked"]
-	path = original/CC-Tweaked
+[submodule "original/ComputerCraft"]
+	path = original/ComputerCraft
 	url = https://github.com/Logotocom-OS/ComputerCraft.git
 [submodule "original/Cobalt"]
 	path = original/Cobalt
